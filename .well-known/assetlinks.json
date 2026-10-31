@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.premhoney174_max.twa",
+        "sha256_cert_fingerprints": ["EB:21:F1:4F:73:D6:C4:07:D7:82:84:0B:BE:54:0A:03:22:C1:63:38:9B:62:D8:A7:B9:D6:C1:B9:42:A4:8F:EB"]
+      }
+    }]
